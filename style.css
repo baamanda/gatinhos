@@ -20,7 +20,7 @@ h1 {
 }
 
 .gatinhos-container img {
-    width: 200px; /* Tamanho fixo para todas as imagens */
+    width: 400px; /* Tamanho fixo para todas as imagens */
     height: 200px; /* Tamanho fixo para todas as imagens */
     object-fit: cover; /* Garante que a imagem cubra o espaço sem distorcer */
     border-radius: 10px; /* Bordas arredondadas */
